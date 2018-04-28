@@ -1,0 +1,27 @@
+{
+  "name": "empls-chart",
+  "displayName": "empls-chart",
+  "description": "Describe your component here",
+  "version": "1.0.0",
+  "jetVersion": "5.0.0",
+  "properties": {
+  },
+  "methods": {
+    "synchEmplsChart": {
+      "description": "Filters chart by key.",
+      "params": [
+        {
+          "name": "jobKey",
+          "description": "Job key.",
+          "type": "string"
+        }
+      ]
+    }
+  },
+  "events": {
+
+  },
+  "slots": {
+
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "name": "jobs-chart",
+  "displayName": "jobs-chart",
+  "description": "Describe your component here",
+  "version": "1.0.0",
+  "jetVersion": "5.0.0",
+  "properties": {
+  },
+  "methods": {
+
+  },
+  "events": {
+    "jobSelection": {
+      "description": "Triggered when job is selected in the chart.",
+      "bubbles": true,
+      "detail": {
+        "value": {
+          "description": "Job key.",
+          "type": "string"
+        }
+      }
+    }
+  },
+  "slots": {
+
+  }
+}

@@ -1,0 +1,8 @@
+jobs-chart:not(.oj-complete){
+  visibility: hidden;
+}
+
+jobs-chart{
+	min-height: 50px;
+	width: 50px;
+}

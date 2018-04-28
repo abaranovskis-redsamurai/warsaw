@@ -1,0 +1,8 @@
+empls-chart:not(.oj-complete){
+  visibility: hidden;
+}
+
+empls-chart{
+	min-height: 50px;
+	width: 50px;
+}
